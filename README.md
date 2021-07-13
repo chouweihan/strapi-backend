@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+A simple strapi backend to use with my Gatsby frontend project
